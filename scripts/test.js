@@ -1,0 +1,3 @@
+function updatepage() {
+	alert("hi!");
+}

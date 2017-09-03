@@ -1,0 +1,9 @@
+.featured_main_sm {
+	width: calc((100% - 10px) / 2);
+  margin-right: 10px;
+	float: left;
+}
+
+.featured_main_sm:last-of-type {
+  margin-right: 0px;
+}
